@@ -3,3 +3,7 @@ Modified the CLUE Beacon to point guests to various services on my network hoste
 
 
 I'll come back to edit this sometime.
+
+
+- [ ] I should clean up images into a dir
+- [ ] should the local ips/urls be in a settings.toml?
